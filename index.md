@@ -118,7 +118,7 @@ title: Allergen Checker
 
 ## Why It Is Useful
 
-Reading ingredient labels can be slow, especially when names vary between products, countries, and brands. Allergen Checker gives you a focused second pass: it compares recognized label text with the allergens, related ingredients, and aliases you have saved for yourself or someone you shop for.
+Reading ingredient labels can be slow, especially when names vary between products, countries, and brands. Allergen Checker gives you a focused second pass: it compares recognised label text with the allergens, related ingredients, and aliases you have saved for yourself or someone you shop for.
 
 It is designed for everyday moments like checking a new snack, reviewing a product while travelling, keeping separate allergy lists for different people, or saving a scan so you can look again later.
 
@@ -147,7 +147,7 @@ It is designed for everyday moments like checking a new snack, reviewing a produ
 2. Add aliases that should also trigger a warning, such as `whey` or `casein` for milk.
 3. Take a photo of a product label or choose one from your photo library.
 4. The app extracts label text on device using Apple Vision.
-5. Recognized text is compared with your saved allergen names and aliases.
+5. Recognised text is compared with your saved allergen names and aliases.
 6. Possible matches are shown in a result summary and highlighted on the scanned image.
 7. Save useful scans to history and rescan them later against the person's current allergy list.
 
@@ -178,7 +178,7 @@ A quick tour of the app's main screens, using the App Store screenshots from `do
   </figure>
   <figure>
     <img src="AppStoreScreens/iPhone17ProMax/ScanResult-2.png" alt="Allergen Checker scan result detail screen">
-    <figcaption><strong>Save and review:</strong> keep useful scans in history so you can revisit the recognized text and matches later.</figcaption>
+    <figcaption><strong>Save and review:</strong> keep useful scans in history so you can revisit the recognised text and matches later.</figcaption>
   </figure>
 </div>
 
@@ -199,11 +199,11 @@ A quick tour of the app's main screens, using the App Store screenshots from `do
 
 Allergen Checker is useful because it understands that allergy checking is personal. One person may need to avoid milk, while another also wants aliases like `whey`, `casein`, or a specific additive to trigger a warning. The app keeps those saved terms close at hand, then applies them consistently whenever you scan.
 
-The history feature also helps when a label needs a closer look later. Saved scans include the image, recognized text, possible matches, and scan date, and they can be rescanned when someone's allergy list changes.
+The history feature also helps when a label needs a closer look later. Saved scans include the image, recognised text, possible matches, and scan date, and they can be rescanned when someone's allergy list changes.
 
 ## Privacy And Safety
 
-Allergen Checker does not require a developer-operated server. Saved allergy profiles, allergens, aliases, notes, scan images, recognized text, and history are stored locally on your device.
+Allergen Checker does not require a developer-operated server. Saved allergy profiles, allergens, aliases, notes, scan images, recognised text, and history are stored locally on your device.
 
 <div class="notice">
   <strong>Important safety notice:</strong> Allergen Checker is a helpful aid, not a medical device and not a guarantee that results are complete or accurate. Always check product packaging, ingredient information, and allergen advice carefully before deciding whether a product is safe for you.
